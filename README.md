@@ -1,2 +1,4 @@
-# Image-sharing-service
-Service for sharing images, written only in Kotlin
+# Image sharing service
+Service for sharing images (like Instagram), written only in Kotlin.
+
+Task for gradle: `run`
